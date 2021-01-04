@@ -10,20 +10,20 @@ end
 
 def division(num1, num2)
   div = num1 / num2
-  return = div
+  return div
 end
 
 def multiplication(num1, num2)
    mult = num1 * num2
-   return = mult
+   return mult
 end
 
 def modulo(num1, num2)
   mod = num1 % num2
-  return = mod
+  return mod
 end
 
 def square_root(num)
   square = math.sqrt(num)
-  return = square
+  return square
 end
